@@ -1,4 +1,4 @@
-module gorm.io/datatypes
+module github.com/Sherlock-HJ/datatypes
 
 go 1.18
 
